@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+C
+);
 date = "2015-06-05 23:17:55 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -47,10 +50,30 @@ unicode = 0042;
 },
 {
 glyphname = C;
+lastChange = "2015-06-05 23:19:34 +0000";
 layers = (
 {
 layerId = "809AB350-13AF-488E-89E6-68FB405FA58D";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"549 0 OFFCURVE",
+"697 144 OFFCURVE",
+"697 322 CURVE SMOOTH",
+"697 499 OFFCURVE",
+"549 643 OFFCURVE",
+"366 643 CURVE SMOOTH",
+"183 643 OFFCURVE",
+"35 499 OFFCURVE",
+"35 322 CURVE SMOOTH",
+"35 144 OFFCURVE",
+"183 0 OFFCURVE",
+"366 0 CURVE SMOOTH"
+);
+}
+);
 width = 600;
 }
 );
