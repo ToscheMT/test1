@@ -1,10 +1,10 @@
 {
 DisplayStrings = (
-<<<<<<< .merge_file_KNimaw
+<<<<<<< HEAD
 B
 =======
 C
->>>>>>> .merge_file_9JzkWl
+>>>>>>> fontBranch
 );
 date = "2015-06-05 23:17:55 +0000";
 familyName = "new Font";
