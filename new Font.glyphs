@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+B
+);
 date = "2015-06-05 23:17:55 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -36,10 +39,31 @@ unicode = 0041;
 },
 {
 glyphname = B;
+lastChange = "2015-06-05 23:20:18 +0000";
 layers = (
 {
 layerId = "809AB350-13AF-488E-89E6-68FB405FA58D";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"723 0 LINE",
+"723 700 LINE",
+"127 700 LINE",
+"127 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"289 557 LINE",
+"530 557 LINE",
+"530 150 LINE",
+"289 150 LINE"
+);
+}
+);
 width = 600;
 }
 );
